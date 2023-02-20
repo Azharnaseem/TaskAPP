@@ -1,0 +1,9 @@
+export const Logo = require("./images/logo.png");
+export const FaceBook = require("./images/faceBook.png");
+export const Google = require("./images/google.png");
+export const User = require("./images/User.png");
+export const Lock = require("./images/lock.png");
+export const Email = require("./images/Mail.png");
+export const Phone = require("./images/phone.png");
+export const Success = require("./images/success.png");
+// export const TwitchGuide = require("./images/TwitchGuide.jpg");
